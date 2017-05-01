@@ -2,4 +2,9 @@
 
 # OpenSourceHW3
 
-This is a repo for the HW3 for CSCI 4830
+This Project allows the user to pull data from the Guild Wars 2 api.
+
+Currently it pull todays and tommorows daily acheivments for PVE, PVP, WVW, Fractals, and Festivals
+
+How to run:
+* Just run main.java however you normaly run java programs.
